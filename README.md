@@ -1,5 +1,5 @@
 # Domestic_Programming_Language
-<h2 style="color=blue;">
+<h2 style="color: blue;">
 Versions Notes:
 </h2>
 <hr>
