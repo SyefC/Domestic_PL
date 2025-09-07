@@ -13,4 +13,5 @@ Description for the pre_first version: welcome this is the first version of it a
 - V.0.0.9 Version : Tokener Ready-To Go, End of Statement Checker, Pre-Calculation Worker Compiler, A little Interpreted
 Description for the V.0.0.9 Version: This is an update of the Compiler added a new file libraly that checks operation and end of statement .txt file now can be rewinded (point to the first char again) make tokener as a function so that code won't look a bit messy. Dev will update a new version sooner or later.
   </em>
+  <img width="1694" height="926" alt="Screenshot 2025-09-07 115516" src="https://github.com/user-attachments/assets/0139d825-c7a1-4507-838e-a5d79636cc07" />
 </h4>
