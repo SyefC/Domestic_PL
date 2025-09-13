@@ -18,3 +18,12 @@ Description for the V.0.0.9 Version: This is an update of the Compiler added a n
   <img width="1694" height="926" alt="Screenshot 2025-09-07 115516" src="https://github.com/user-attachments/assets/0139d825-c7a1-4507-838e-a5d79636cc07" />
 </h4>
 <hr>
+<em>
+- V.0.1.5 Version: Token fix, added EOF checker and whitespace checker pre-working calculation '+' (only 1 line tho! dev will update if user can calculate with multiple lines and will add another multiplication later in the future) this is a sign of finishing this programming language and the print function i am working on that so stay tuned and support devs. Dev will update a new version sooner or later.
+</em>
+<hr>
+<em>- V.0.1.5 Documentary Code:</em>
+<img width="1919" height="1006" alt="Screenshot 2025-09-13 100640" src="https://github.com/user-attachments/assets/8a0555ec-ec6b-4d19-bbbb-4d136207bd52" />
+<img width="1918" height="1009" alt="Screenshot 2025-09-13 100655" src="https://github.com/user-attachments/assets/417a35ca-dc81-49b4-a4db-e916e05cfba4" />
+<img width="1919" height="1007" alt="Screenshot 2025-09-13 100708" src="https://github.com/user-attachments/assets/b7e962c5-6bc0-4be3-8fc7-7faa0d060501" />
+<hr>
