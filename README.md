@@ -1,6 +1,5 @@
-<img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/27f50dc4-e86d-4000-bf71-e7619535fae6" /># 
+<img width="330" height="220" alt="logo" src="https://github.com/user-attachments/assets/83cd8cb3-76d0-45b7-b266-2e66387c1e20" />
 
-<h1>
 Versions Notes:
 </h1>
 <hr>
