@@ -19,7 +19,9 @@ Description for the V.0.0.9 Version: This is an update of the Compiler added a n
 </h4>
 <hr>
 <em>
+  <h4>
 - V.0.1.5 Version: Token fix, added EOF checker and whitespace checker pre-working calculation '+' (only 1 line tho! dev will update if user can calculate with multiple lines and will add another multiplication later in the future) this is a sign of finishing this programming language and the print function i am working on that so stay tuned and support devs. Dev will update a new version sooner or later.
+  </h4>
 </em>
 <hr>
 <em>- V.0.1.5 Documentary Code:</em>
