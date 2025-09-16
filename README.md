@@ -31,7 +31,7 @@ Description for the V.0.0.9 Version: This is an update of the Compiler added a n
 <img width="1918" height="1009" alt="Screenshot 2025-09-13 100655" src="https://github.com/user-attachments/assets/417a35ca-dc81-49b4-a4db-e916e05cfba4" />
 <img width="1919" height="1007" alt="Screenshot 2025-09-13 100708" src="https://github.com/user-attachments/assets/b7e962c5-6bc0-4be3-8fc7-7faa0d060501" />
 <hr>
-<em><h4>- V.0.1.6.4 : Bug Fixed, Array Reset System, with the array reset system devs now can make more line read by the code. short information because i don't add that much. Dev will update a new version sooner or later.
+<em><h4>- V.0.1.6.4 : Bug Fixed, Array Reset System, with the array reset system devs now can make more line read by the compiler. short information because i don't add that much. Dev will update a new version sooner or later.
 </h4>
 </em>
 <hr>
