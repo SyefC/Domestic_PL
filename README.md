@@ -39,3 +39,9 @@ Description for the V.0.0.9 Version: This is an update of the Compiler added a n
 <em>- V.0.1.6.4 Documentary Code:</em>
 <img width="1919" height="1005" alt="Screenshot 2025-09-16 200627" src="https://github.com/user-attachments/assets/34dd1181-487d-402f-9813-9eb30c9e5d64" />
 <hr>
+<em>
+  <h4>
+    - V.0.1.8 Version: Fixed Error messaging, added character checker, and guess what first function ever!!! it is called printcal([]); (dont mind the '[]' it just refer to the operation like '1+1') if user want to use the function don't add any strings or quote inside function if you still say "how do print/output any text?" dev is working on that to! so stay tuned and btw theres no more documentary code for now because everytime i update a repo the code inside my code editor have hundreds of lines of code so more screenshot more storage used and added a error handler if you want to do operation pls make sure you use the function printcal([]); if not it will show error said: "Error: No printcal([]) function was called! : (your code)". still thinking about adding variables but idk how to make it maybe some tutorial will help at least?. Dev will update a new version sooner or later.
+  </h4>
+</em>
+<hr>
