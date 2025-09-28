@@ -45,3 +45,4 @@ Description for the V.0.0.9 Version: This is an update of the Compiler added a n
   </h4>
 </em>
 <hr>
+Have a announcement to make i will redo the code so gonna take a while... but functions will be the same dont be worried i will not delete the folder on this repo i only redo the entire code so just want to make code a little bit cleaner and readable you know? so stay tuned for it the redo version will be version 0.2.0 and newer versions. Dev will update a new version sooner or later.
